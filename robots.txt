@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://local-life-lab.github.io/supreme-guacamole/sitemap.xml
